@@ -38,4 +38,4 @@ Additionally, my current research with friends focuses on pose estimation for ca
 
 Finally, my passion for computer graphics extends to solving real-world problems, such as virtual try-on systems. Imagine trying clothes on at home without visiting a store or physically wearing them! I aim to resolve this by leveraging my skills in graphics and Gaussian splatting. In the future, I hope to create a system that models humans in 3D and automatically fits 3D mesh clothing onto them, enabling multi-view visualization. Below is an image inspired by the [GaussianBody](https://arxiv.org/pdf/2401.09720) project:
 
-| ![](/assets/images/recent/clothes.png){:style="width: 800px"} | 
+| ![](/assets/images/recent/clothes.png){:style="width: 800px"} |
