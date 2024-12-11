@@ -39,10 +39,10 @@ author:
 
 # Publication Category
 publication_category:
-  papers:
-    title: 'Research paper'
   work:
     title: 'Current work'
+  papers:
+    title: 'Research papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

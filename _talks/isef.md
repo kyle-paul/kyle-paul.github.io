@@ -10,6 +10,8 @@ location: "Los Angeles, California, USA"
 
 This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/isef)
 
+The [project board](https://partner.projectboard.world/isef/project/soft055t-3d-cardiovascular-reconstruction-via-deep-learning)
+The [video showcase](https://youtu.be/6VeMSu0EKDk)
 
 
 Grand Award
