@@ -12,9 +12,9 @@ redirect_from:
 
 🌟 Academic achievements
 =====
-- 2nd Prize (sponsored by Microsoft) & Special Award (sponsored by ACM), International Science and Engineering Fair (ISEF) 2024.
-- 1st Prize, Regional and National Vietnam Science & Engineering Fair (VISEF) in System Software field 2023-2024.
-- 3rd Prize, Ho Chi Minh City-level Computer Science / Competitive Programming Competition for the Gifted 2024.
-- 1st Prize "Hacker Award" & 1st Prize "User Experience Award" at a National Hackathon organized by SteamHack 2023.
+- 2nd Prize (sponsored by Microsoft) & Special Award (sponsored by ACM), International Science and Engineering Fair (ISEF) 2024. [view](/talks/isef)
+- 1st Prize, Regional and National Vietnam Science & Engineering Fair (VISEF) in System Software field 2023-2024. [view](/talks/isef)
+- 3rd Prize, Ho Chi Minh City-level Computer Science / Competitive Programming Competition for the Gifted 2024. [view](/talks/informatics)
+- 1st Prize "Hacker Award" & 1st Prize "User Experience Award" at a National Hackathon organized by SteamHack 2023. [view](/talks/hackathon)
 - Top 5 team at final AI Innovation competition (by VinUni x VinAI).
 - 2nd Prize, HCM City-level English Language Specialized Competition for the Gifted 2021.
