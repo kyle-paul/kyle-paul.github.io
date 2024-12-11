@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🔥 This is my personal page, where I feel comfortable to share my achievements, and interesting experience. I am a student who love computing, math and science.
-🌱 I am actively seeking opportunities to engage in research collaboration with individuals passionate about Deep Learning, particularly in computer vision applied to medical imaging. I am also interested in participating in Software Engineering projects.
+This is my personal page, where I feel comfortable to share my achievements, and interesting experience. I am a student who love computing, math and science.
 
 🌟 Academic achievements
 =====
@@ -18,3 +17,11 @@ redirect_from:
 - 1st Prize "Hacker Award" & 1st Prize "User Experience Award" at a National Hackathon organized by SteamHack 2023. [view](/talks/hackathon)
 - Top 5 team at final AI Innovation competition (by VinUni x VinAI).
 - 2nd Prize, HCM City-level English Language Specialized Competition for the Gifted 2021.
+
+🌱 About me
+=====
+- Research Activities and Publications → [view details](/research/)  
+- Experience and Academic Timeline → [explore posts](/talks/)  
+- Extracurricular Activities and Internships → [discover more](/activities/)  
+- Curriculum Vitae → [view my skills](/cv/)
+- What people talk about me :boom: → [view now]()
