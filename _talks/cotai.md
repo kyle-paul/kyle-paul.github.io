@@ -8,7 +8,7 @@ date: 2023-03-15
 location: "Ho Chi Minh, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/algo)
+I discovered my love for programming during the summer of 9th grade, starting with... [*view details*](/posts/algo)
 
 I discovered my love for programming during the summer of 9th grade, starting with website development. In high school, I attended Artificial Intelligence classes offered at my school, which marked the beginning of my AI learning journey. From the very first lecture, I was captivated by how the material was thoughtfully designed to be accessible to high school students.
 

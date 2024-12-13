@@ -8,7 +8,7 @@ date: 2024-03-15
 location: "Ho Chi Minh, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/algo)
+In 11th grade, I discovered my passion for computer science and competitive programming... [*view details*](/posts/algo)
 
 In 11th grade, I discovered my passion for computer science and competitive programming. The thrill of solving a problem and achieving an "Accepted" verdict was unmatched. I enrolled in several courses on the subject and ranked 4th in my class overall. Encouraged by this, I joined my high school’s informatics team. After months of learning and competing with friends, I earned the opportunity to participate in the city-level computer science competition.
 

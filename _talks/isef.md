@@ -8,7 +8,7 @@ date: 2024-05-10
 location: "Los Angeles, California, USA"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/isef)
+I started my ISEF project in September 2023, inviting a friend to join me. Together, we worked... [*view details*](/posts/isef)
 
 I started my ISEF project in September 2023, inviting a friend to join me. Together, we worked tirelessly, overcoming multiple regional rounds to finally reach ISEF. The core of our project is reconstructing 2D medical images, particularly CT and MRI scans, into 3D representations within a simulated 3D space for enhanced observation and analysis.  
 

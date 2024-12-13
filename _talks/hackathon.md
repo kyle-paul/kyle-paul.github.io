@@ -8,7 +8,7 @@ date: 2023-08-20
 location: "Hanoi, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/hackathon)
+This hackathon consisted of three rounds. In the first round, contestants were... [*view details*](/posts/hackathon)
 
 This hackathon consisted of three rounds. In the first round, contestants were tasked with independently building an AI-integrated application (using computer vision or NLP) to address a societal problem. My project, [Skin Disease Detector](https://github.com/kyle-paul/Skin-Disease-Detector), was recognized as one of the top 5 projects in this round.
 

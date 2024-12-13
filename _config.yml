@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Porfolio"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Quoc-Bao Nguyen-Le"
+name                     : &name "Bao L. Q. Nguyen"
 description              : &description "personal description"
 url                      : https://kyle-paul.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/kyle-paul.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Quoc-Bao Nguyen-Le"
+  name             : "Bao L. Q. Nguyen"
   pronouns         : "he/him"  
   bio              : "An insatiably curious guy"
   location         : "Ho Chi Minh city"

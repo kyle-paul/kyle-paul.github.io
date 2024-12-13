@@ -8,7 +8,7 @@ date: 2024-06-01
 location: "Ho Chi Minh, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/accv)
+Recently, I had the opportunity to attend the ACCV Workshop 2024... [*view details*](/posts/accv)
 
 Recently, I had the opportunity to attend the ACCV Workshop 2024 at the Saigon Royal Hotel. For the first time, I witnessed the incredible work of researchers from diverse fields. Their presentations covered topics such as video understanding, generative models like diffusion, pose estimation, and 3D point clouds. The experience reignited my passion for computer vision, computer graphics, and related fields. I took photos of their work as my inspiration and my goal is to have my own exceptional work showcased at this event next year.
 

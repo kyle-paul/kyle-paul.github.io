@@ -8,7 +8,7 @@ date: 2022-11-05
 location: "Ho Chi Minh, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/basketball)
+I started playing basketball in 6th grade, driven by my passion for the sport... [*view details*](/posts/basketball)
 
 I started playing basketball in 6th grade, driven by my passion for the sport. I first joined the District 10 team and later earned a spot on the city’s selected team in 9th grade, all while excelling academically. During that time, I won a bronze medal at the city-level basketball championship, secured second prize in a city-level specialized English competition, and graduated secondary school as the top student.
 

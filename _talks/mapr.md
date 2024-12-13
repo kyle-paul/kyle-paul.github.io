@@ -8,7 +8,7 @@ date: 2024-08-15
 location: "Da Nang, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/mapr)
+I had the privilege of participating in this conference with my paper... [*view details*](/posts/mapr)
 
 I had the privilege of participating in this conference with [my paper](/research/paper-1) being accepted. During the event, I had the opportunity to meet many talented researchers and attend their insightful talks and presentations in person. This experience enriched my knowledge and skills while further fueling my passion for scientific research. Below, you can find the first nine minutes of my presentation about my work, along with some memorable moments captured at the conference venue.
 

@@ -8,7 +8,7 @@ date: 2024-06-01
 location: "Ho Chi Minh, Vietnam"
 ---
 
-This post serves as a record of my activities, experiences, and achievements, including prize and honor certificates. [*view details*](/posts/seminar)
+I frequently give presentations on various topics at SeLAB. Recently, I focused on two main subjects... [*view details*](/posts/seminar)
 
 I frequently give presentations on various topics at SeLAB. Recently, I focused on two main subjects: video retrieval and computer graphics. Below are two slides I used to present additional work or background knowledge to my colleagues in the lab, similar to a seminar format. Afterward, they engage with questions and discussions on the topic. Note: The information on the slides may not be entirely accurate, as I am still in the process of learning and improving.
 
