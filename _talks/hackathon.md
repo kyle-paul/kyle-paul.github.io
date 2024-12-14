@@ -19,6 +19,7 @@ As the lead developer and team leader, I guided my team in creating a web applic
 | ![](/assets/images/steamhack/hacker.png){:style="width: 400px"} | ![](/assets/images/steamhack/uiux.png){:style="width: 400px"} |
 | ![](/assets/images/steamhack/1.jpg){:style="width: 400px"} | ![](/assets/images/steamhack/2.jpg){:style="width: 400px"} |
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsteamforvietnam.org%2Fposts%2Fpfbid02ozA9pqf4Pnm5hTdJumSvW8hHEAHd8cJTkc9i5kJ2mSiaHDPm9cM9cKU1brJwBe1xl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 This is my second round project showcase:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EkW7s3Nhtyc?si=dyXs5fotN2f_x72K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -6,10 +6,14 @@ permalink: /research/work-1
 date: 2024-11-25
 ---
 
+The CTO of Gianty from Tiger Funding is interested in funding my software for use in universities as learning materials or in hospitals for experiments. But, I've decided to improve it further first. My passion for computer graphics has inspired me to build my own 3D graphics engine to simulate advanced physical properties like blood flow, heartbeats, and neuron activation. This engine can also be applied to robotics training simulations, aligning with global trends like NVIDIA Omniverse. It's a passion I pursue at my own pace, simply for the joy of it.
+
+
+
 I am currently working at the intersection of **computer graphics** and **computer vision** and its application in medical, robotics, synthetic data, etc. Beginning with my passion for **3D** graphics, I have continued research in this field by building a 3D graphics engine and delving into the mathematical and **physical modeling** aspects... [***Read more***](/research/work-1)
 
 **Vortex - my own graphic engine** \\
-I have implemented the [**Vortex Engine**](https://github.com/kyle-paul/Vortex) in C++, aiming to make it renderer-backend-agnostic (e.g., OpenGL, Vulkan, etc). I strive to control every detail in my 3D scenes. Building upon my passionate [**ISEF project**](/talks/isef), which reconstructed **3D human anatomy** structures from medical volumetric data, I now focus on achieving real-time, lifelike simulations. For instance, I aim to simulate a beating heart or the **dynamic motion** of neurons in the brain. My ultimate goal is to simulate the dynamics of **cellular activity** and **blood flow** to enable comprehensive analysis and defect/anomaly detection. Below is a comparison of my previous work and my current one:
+I have implemented the [**Vortex Engine**](https://github.com/kyle-paul/Vortex) in C++, aiming to make it renderer-backend-agnostic (e.g., OpenGL, Vulkan, etc). I strive to control every detail in my 3D scenes. Building upon my passionate [**ISEF project**](/talks/isef), which reconstructed **3D human anatomy** structures from medical volumetric data, I now focus on achieving real-time, lifelike simulations with **advanced physical properties**. For instance, I aim to simulate a beating heart or the **dynamic motion** of neurons in the brain. My ultimate goal is to simulate the dynamics of **cellular activity** and **blood flow** to enable comprehensive analysis and defect/anomaly detection. Below is a comparison of my previous work and my current one:
 
 | ![](/assets/images/recent/brain.png){:style="width: 400px"} | ![](/assets/images/recent/cardiac.gif){:style="width: 400px"} |  
 

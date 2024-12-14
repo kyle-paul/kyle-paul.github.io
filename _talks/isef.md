@@ -8,12 +8,11 @@ date: 2024-05-10
 location: "Los Angeles, California, USA"
 ---
 
-I started my ISEF project in September 2023, inviting a friend to join me. Together, we worked... [*view details*](/posts/isef)
+I started my ISEF project in September 2023, inviting a friend to join me. Together, we worked... [*view details*](/talks/isef)
 
 I started my ISEF project in September 2023, inviting a friend to join me. Together, we worked tirelessly, overcoming multiple regional rounds to finally reach ISEF. The core of our project is reconstructing 2D medical images, particularly CT and MRI scans, into 3D representations within a simulated 3D space for enhanced observation and analysis.  
 
-You can explore the [project board](https://partner.projectboard.world/isef/project/soft055t-3d-cardiovascular-reconstruction-via-deep-learning), [GitHub repo](https://github.com/VISEF-ISEF-team/VasculAR), or [YouTube video](https://youtu.be/6VeMSu0EKDk). Below are two videos showing me receiving both the grand award and special award. Additionally, two research papers were published as part of this competition, which you can find in the research section.
-
+You can explore the [project board](https://partner.projectboard.world/isef/project/soft055t-3d-cardiovascular-reconstruction-via-deep-learning), [GitHub repo](https://github.com/VISEF-ISEF-team/VasculAR), or [YouTube video](https://youtu.be/6VeMSu0EKDk). Also, explore [the paper](/research/paper-1) I use to present in the LA. Below are two videos showing me receiving both the grand award and special award. Additionally, two research papers were published as part of this competition, which you can find in the research section.
 
 **Grand Award** (sponsored by Microsoft)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdqq_yRZmRI?si=IX7y6jUjOqCo-UX_&amp;start=4172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
