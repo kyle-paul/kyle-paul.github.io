@@ -1,5 +1,5 @@
 ---
-title: "Project in Mathematic Application (PIMA) - Summer Camp and Math Open Day"
+title: "Projects in Mathematics and Applications (PIMA) - Summer Camp and Math Open Day"
 collection: talks
 type: "Mathematic camp"
 permalink: /talks/pima

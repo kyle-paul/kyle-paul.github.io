@@ -17,3 +17,14 @@ In the burgeoning field of medical imaging, precise computation of 3D volume hol
 - Repository: [view]()
 
 **Citation**
+```
+@misc{nguyenle2024novel3dbinaryindexed,
+      title={Novel 3D Binary Indexed Tree for Volume Computation of 3D Reconstructed Models from Volumetric Data}, 
+      author={Quoc-Bao Nguyen-Le and Tuan-Hy Le and Anh-Triet Do},
+      year={2024},
+      eprint={2412.10441},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR},
+      url={https://arxiv.org/abs/2412.10441}, 
+}
+```
