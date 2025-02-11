@@ -20,6 +20,8 @@ In addition, I am exploring **performance acceleration** in AI-driven computer g
 **Graphics and robotics** \\
 I am also fascinated by physically based modeling and the magical math behind simulating **collisions**. Recently, I have been studying NVIDIA’s research on [6D Pose Estimation](https://nvlabs.github.io/FoundationPose/) and [6-DoF Tracking](https://bundlesdf.github.io/). By estimating **physical parameters** like forces, mass, and acceleration, I believe this knowledge can significantly advance **pose estimation** techniques.
 
+| ![](/assets/images/recent/demo.png)  |
+
 | ![](/assets/images/recent/physics.gif){:style="width: 400px"} | ![](/assets/images/recent/robot.gif){:style="width: 390px"} |
 
 | ![](/assets/images/recent/arms.gif){:style="width: 800px"} |  
