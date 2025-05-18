@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Statement"
+title: "Personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am a student with a passion for computing, mathematics, and science. My [current research](/research/work-1) focuses on the intersection of **computer graphics** and **computer vision**, exploring its applications in medical imaging, surgical simulation, sim-to-real robotics training, cellular/protein reconstruction, and synthetic data generation. I enjoy applying mathematical and **physically-based modeling** to develop my own [3D simulation graphics engine - **Vortex**](https://github.com/kyle-paul/Vortex).
+
 
 Education
 =====
@@ -24,6 +25,11 @@ Academic achievements
 - [**1st Prize** "**Hacker Award**" & **1st Prize** "**User Experience Award**" at a **National Hackathon** organized by SteamHack, 2023.](/talks/hackathon)
 - [**Top 10** team at final round of **AI Innovation** competition (by VinAI x VinUni), 2023.](/talks/vinai)
 - [**2nd Prize**, Ho Chi Minh City **English** Language Olympiad Competition for the Gifted, 2021.](/talks/informatics)
+
+Media
+=====
+- [2 prize-winning students at ISEF 2024 received certificate of merit](https://en.sggp.org.vn/2-prize-winning-students-at-isef-2024-received-certificate-of-merit-post110069.html)
+- [Vietnamese students win second prize at ISEF 2024](https://en.nhandan.vn/vietnamese-students-win-second-prize-at-isef-2024-post135689.html)
 
 About me
 =====
